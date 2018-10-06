@@ -1,6 +1,13 @@
 # Hacktoberfest Check Point
 Submit PR here to take your prize
 
-# Contributors
+## Goals
+- [x] Have a fun
+
+## Contributors
 * You are next!
-* dmpanch
+
+[<img src="https://avatars1.githubusercontent.com/u/351613?s=460&v=4" width="100px;"/><br /><sub><b>Denys Butenko</b></sub>](https://denysbutenko.com)
+
+
+[<img src="https://avatars0.githubusercontent.com/u/4539449" width="100px;"/><br /><sub><b>dmpanch</b></sub>](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
